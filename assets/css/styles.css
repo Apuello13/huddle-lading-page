@@ -98,6 +98,7 @@ footer .bx:hover{
 @media (max-width: 600px){
     body{
         background: url("../img/bg-mobile.svg") top no-repeat var(--violet);
+        background-size: 100%;
     }
     .d-flex{
         flex-direction: column;
